@@ -14,5 +14,13 @@ Contributor: Dasom Kwon, Chaejung Park
 
 ## Data
 1. Horikawa, T., & Kamitani, Y. (2017) Dataset: https://github.com/KamitaniLab/GenericObjectDecoding
+  - fMRI dataset (~ 22.4GB)
+  - Stimulus dataset (need to request)
+
+2. Algonauts (2021) dataset: http://algonauts.csail.mit.edu/challenge.html
+  - fMRI dataset (~ 5GB; need to request)
+  - Stimulus dataset (need to request)
 
 ## Code analysis
+1. Horikawa, T., & Kamitani, Y. (2017)
+  - [Let's go](DN_fMRI/data/readme.md)
