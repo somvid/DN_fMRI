@@ -23,4 +23,4 @@ Contributor: Dasom Kwon, Chaejung Park
 
 ## Code analysis
 1. Horikawa, T., & Kamitani, Y. (2017)
-  - [Let's go](DN_fMRI/data/readme.md)
+  - [Let's go](code/Horikawa)
