@@ -6,6 +6,10 @@ Horikawa, T., & Kamitani, Y. (2017). Generic decoding of seen and imagined objec
 - [Python](https://github.com/KamitaniLab/GenericObjectDecoding/tree/master/code/python)
 # Analysis
 ## Python manual 1
+The following packages can be download throught the link.
+- [bdpy](https://github.com/KamitaniLab/bdpy)
+- [slir](https://github.com/KamitaniLab/slir)
+
 Run the following scripts. 
 (tested with Python 2.7.13)
 <pre>
@@ -19,9 +23,11 @@ To visulaize the results, run the following script.
 <pre>
 <code>$ python createfigure.py</code>
 </pre>
+
 The figures will be saved in results directory in PDF format
 - createfigure_featureprediction.pdf
 - createfigure_categoryidentification.pdf
+
 
 ## Python manual 2
 To check the Jupyter Notebook version, run our edited file
