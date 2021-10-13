@@ -17,10 +17,13 @@ Contributor: Dasom Kwon, Chaejung Park
   - fMRI dataset (~ 22.4GB)
   - Stimulus dataset (need to request)
 
-2. Algonauts (2021) dataset: http://algonauts.csail.mit.edu/challenge.html
+2. Algonauts project (2021) dataset: http://algonauts.csail.mit.edu/challenge.html
   - fMRI dataset (~ 5GB; need to request)
   - Stimulus dataset (need to request)
 
-## Code analysis
+## Code
 1. Horikawa, T., & Kamitani, Y. (2017)
-  - [Let's go](code/Horikawa)
+  - [Go to the analysis code](code/Horikawa)
+
+2. Algonauts project (2021)
+  - [Go to the analysis code](code/Algonauts)
