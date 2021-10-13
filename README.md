@@ -23,7 +23,7 @@ Contributor: Dasom Kwon, Chaejung Park
 
 ## Code
 1. Horikawa, T., & Kamitani, Y. (2017)
-  - [Go to the analysis code](code/Horikawa)
+  - [Code](code/Horikawa)
 
 2. Algonauts project (2021)
-  - [Go to the analysis code](code/Algonauts)
+  - [Code](code/Algonauts)
