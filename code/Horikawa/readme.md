@@ -3,10 +3,11 @@ Horikawa, T., & Kamitani, Y. (2017). Generic decoding of seen and imagined objec
 [ [Paper](https://www.nature.com/articles/ncomms15037), [GitHub](https://github.com/KamitaniLab/GenericObjectDecoding) ]
 # Demo program
 - [Matlab](https://github.com/KamitaniLab/GenericObjectDecoding/tree/master/code/matlab)
-- [Python](https://github.com/KamitaniLab/GenericObjectDecoding/tree/master/code/python): tested with Python 2.7.13
+- [Python](https://github.com/KamitaniLab/GenericObjectDecoding/tree/master/code/python)
 # Analysis
-Run the following scripts. (Python)
-
+## Python manual 1
+Run the following scripts. 
+(tested with Python 2.7.13)
 <pre>
 <code>
 $ python analysis_FeaturePrediction.py
@@ -16,10 +17,13 @@ $ python analysis_CategoryIdentification.py
 </pre>
 To visulaize the results, run the following script.
 <pre>
-<code>
-$ python createfigure.py
-</code>
+<code>$ python createfigure.py</code>
 </pre>
 The figures will be saved in results directory in PDF format
 - createfigure_featureprediction.pdf
 - createfigure_categoryidentification.pdf
+
+## Python manual 2
+To check the Jupyter Notebook version, run our edited file
+(tested with Python 3.8.8)
+- analysis_FeaturePrediction.ipynb
