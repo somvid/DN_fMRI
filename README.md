@@ -13,6 +13,6 @@ Contributor: Dasom Kwon, Chaejung Park
 
 
 ## Data
-
+1. Horikawa, T., & Kamitani, Y. (2017) Dataset: https://github.com/KamitaniLab/GenericObjectDecoding
 
 ## Code analysis
