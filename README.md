@@ -1,7 +1,7 @@
 # DN_fMRI
 Deep learning and fMRI code example for advancefMRI course.
 
-Contributors: Dasom Kwon, Chaejung Park
+Contributors: Dasom Kwon, Chae-jung Park
 
 
 ## Articles
