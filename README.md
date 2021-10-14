@@ -1,15 +1,15 @@
 # DN_fMRI
 Deep learning and fMRI code example for advancefMRI course.
 
-Contributors: Dasom Kwon, Chae-jung Park
+Contributors: Dasom Kwon, Chae Jung Park
 
 
 ## Articles
-0. Yamins, D. L. K., & DiCarlo, J. J. (2016). **Using goal-driven deep learning models to understand sensory cortex**. _Nature Neuroscience, 19_(3), 356–365. 
+0. Yamins, D. L. K., & DiCarlo, J. J. (2016). **Using goal-driven deep learning models to understand sensory cortex**. _Nature Neuroscience, 19_(3), 356–365. [[paper](http://lps3.www.nature.com.libproxy.samsunghospital.com/articles/nn.4244)]
 
-1. Horikawa, T., & Kamitani, Y. (2017). **Generic decoding of seen and imagined objects using hierarchical visual features**. _Nature Communications, 8_(1).
+1. Horikawa, T., & Kamitani, Y. (2017). **Generic decoding of seen and imagined objects using hierarchical visual features**. _Nature Communications, 8_(1). [[paper](https://www.nature.com/articles/ncomms15037)]
 
-2. Wen, H., Shi, J., Zhang, Y., Lu, K. H., Cao, J., & Liu, Z. (2018). **Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision**._ Cerebral Cortex, 28_(12), 4136–4160.
+2. Wen, H., Shi, J., Zhang, Y., Lu, K. H., Cao, J., & Liu, Z. (2018). **Neural Encoding and Decoding with Deep Learning for Dynamic Natural Vision**._ Cerebral Cortex, 28_(12), 4136–4160. [[paper](https://academic.oup.com/cercor/article/28/12/4136/4560155)]
 
 
 ## Data
