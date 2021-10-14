@@ -4,6 +4,6 @@ R.M. Cichy, K. Dwivedi, B. Lahner, A. Lascelles, P. Iamshchinina, M. Graumann, A
 
 # Code
 ## 1. Extract Alexnet features for the videos
-### * ~~~ generate_features_alexnet.py ~~~ 
+### * 'generate_features_alexnet.py' 
 
 ## 2. Predict fMRI responses
