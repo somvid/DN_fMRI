@@ -13,4 +13,4 @@ R.M. Cichy, K. Dwivedi, B. Lahner, A. Lascelles, P. Iamshchinina, M. Graumann, A
 * Real fMRI data in `./participants_data_v2021`
 * AlexNet features in `./alexnet`
 
-## 3. [tutorial] (./tutorial.ipynb)
+## 3. [tutorial](./tutorial.ipynb)
