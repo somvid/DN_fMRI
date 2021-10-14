@@ -12,3 +12,5 @@ R.M. Cichy, K. Dwivedi, B. Lahner, A. Lascelles, P. Iamshchinina, M. Graumann, A
 * `perform_encoding.py`: to create predicted fMRI responses for test videos based on AlexNet features or custom Neural Network Layers.
 * Real fMRI data in `./participants_data_v2021`
 * AlexNet features in `./alexnet`
+
+## 3. tutorial (./tutorial.ipynb)
